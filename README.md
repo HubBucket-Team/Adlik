@@ -75,6 +75,7 @@ First, install the following packages:
 - `automake`
 - `libtool`
 - `make`
+- `libtbb2`
 
 #### Build serving with OpenVINO runtime
 
